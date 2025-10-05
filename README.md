@@ -5,8 +5,7 @@
 </a>
 
 ----------------------------------------------------
-A **Group Manager Bot** built with **Pyrogram** + **MongoDB** for managing Telegram groups —  
-auto-welcome, moderation, admin panel, broadcast, and more!
+A **Group Manager Bot** built with **Pyrogram** + **MongoDB** for managing Telegram groups
 
 </div>
 
