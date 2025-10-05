@@ -7,13 +7,13 @@
 # License: Open-source (keep credits, no resale)
 # ==========================================================
 
-API_ID = 9336283070
-API_HASH = "bs727282828jaksks"
-BOT_TOKEN = "8472124806:"
-MONGO_URI = "mong"
-DB_NAME = "Cluster0"
-OWNER_ID = 5016109398
-BOT_USERNAME = "NomadeHelpBot"  # Bot username without @
+API_ID = # api id
+API_HASH = "" #api hash
+BOT_TOKEN = "" #Get from @botfather
+MONGO_URI = "" #Get from mongodb.com
+DB_NAME = "" # Any name 
+OWNER_ID = #Your user id
+BOT_USERNAME = ""  # Bot username without @
 SUPPORT_GROUP = "https://t.me/learning_bots"
 UPDATE_CHANNEL = "https://t.me/learningbots79"
 START_IMAGE = "https://files.catbox.moe/j2yhce.jpg"
