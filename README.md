@@ -138,7 +138,7 @@ This project is open-source under a **custom license** by [Yash](https://github.
 - Claim ownership or re-upload it without permission  
 
 If you want to use this project commercially,  
-please contact the author at [@learningbots79](https://t.me/learningbots).
+please contact the author at [@learningbots79](https://t.me/learningbots79).
 
 ---
 
