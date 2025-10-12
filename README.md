@@ -100,13 +100,16 @@ python3 main.py
 > ✅ You can easily deploy this Group help bot on **[Sevalla](https://sevalla.com)** – A powerful and beginner-friendly hosting platform.
 ---
 
-</div>
-<h3 align="left">☕ Support Me!</h3>
-<h3 align="left"> If you enjoy my work, consider buying me a coffee to keep me fueled and coding!</h3>
-<p><a href="https://files.catbox.moe/4elv8g.jpg"> <img align="centre" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="https://www.buymeacoffee.com/rokhisarkar" /></a></p><br><br>
 <div align="center">
 
-If you like this project, please ⭐ it on GitHub and share it in your Telegram groups!
+### ☕ Support Me!
+If you enjoy my work, consider buying me a coffee ❤️  
+
+<a href="https://files.catbox.moe/4elv8g.jpg" target="_blank">
+  <img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="45" width="190" alt="Buy Me a Coffee" />
+</a>
+
+</div>
 
 ---
 
