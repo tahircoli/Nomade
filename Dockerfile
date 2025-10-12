@@ -11,5 +11,5 @@ RUN pip install --no-cache-dir --upgrade pip \
 # Environment variable to force unbuffered output (helps in logging)
 ENV PYTHONUNBUFFERED=1
 
-# Run the bot
+# Run the bot..
 CMD ["python", "main.py"]
