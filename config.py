@@ -10,17 +10,17 @@
 import os
 
 # Required configurations (loaded from environment variables)
-API_ID = int(os.getenv("API_ID", 0))
-API_HASH = os.getenv("API_HASH", "")
-BOT_TOKEN = os.getenv("BOT_TOKEN", "")
-MONGO_URI = os.getenv("MONGO_URI", "")
+API_ID = int(os.getenv("29555662", 0))
+API_HASH = os.getenv("d5420764bf458365083a59c70748e907", "")
+BOT_TOKEN = os.getenv("8491473656:AAEIMXJzMlJMEW4xSBNX_4q20XkrshUrvC4", "")
+MONGO_URI = os.getenv("mongodb+srv://ffhackerindia098_db_user:ffhackerindia098_db_user@cluster0.rsb3l7b.mongodb.net/?retryWrites=true&w=majority&appName=Cluster0", "")
 DB_NAME = os.getenv("DB_NAME", "Cluster0")
 
 # Owner and bot details
-OWNER_ID = int(os.getenv("OWNER_ID", 0))
-BOT_USERNAME = os.getenv("BOT_USERNAME", "NomadeHelpBot")
+OWNER_ID = int(os.getenv("7265739086", 0))
+BOT_USERNAME = os.getenv("@Tahirmusicbot", "NomadeHelpBot")
 
 # Links and visuals
-SUPPORT_GROUP = os.getenv("SUPPORT_GROUP", "https://t.me/learning_bots")
-UPDATE_CHANNEL = os.getenv("UPDATE_CHANNEL", "https://t.me/learningbots79")
+SUPPORT_GROUP = os.getenv("https://t.me/Music_support_group_Tahir", "https://t.me/learning_bots")
+UPDATE_CHANNEL = os.getenv("https://t.me/Tahir_update", "https://t.me/learningbots79")
 START_IMAGE = os.getenv("START_IMAGE", "https://files.catbox.moe/j2yhce.jpg")
